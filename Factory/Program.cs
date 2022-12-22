@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Decorator
+namespace Factory
 {
     class Program
     {
